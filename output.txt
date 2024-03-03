@@ -1,0 +1,3 @@
+Hello, this is a demonstration of file primitives in C++.
+This content is written using fprintf function.
+You can write anything here!
